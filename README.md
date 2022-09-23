@@ -1,2 +1,2 @@
 ﻿# Expense_Tracker
-link : Rohitkr2510/Expense_Tracker
+link : https://expenses-tracker-ui.netlify.app/
